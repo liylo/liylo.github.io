@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : #
+title                    : Yilong Liu's Homepage
 title_separator          : "-"
 name                     : &name "Yilong Liu"
 description              : &description "personal description"
@@ -26,7 +26,7 @@ author:
   name             : "liylo"
   pronouns         : # example: "he/him"  
   bio              : # URL
-  location         : "Beijing"
+  location         : "Beijing, China"
   employer         : "Tsinghua University"
   uri              : # URL
   email            : "liuyilon22@mails.tsinghua.edu.cn" 
