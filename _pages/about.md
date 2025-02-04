@@ -1,3 +1,4 @@
-I'm a third year undergraduate student from [School of EECS](https://eecs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). My research interest includes computer vision, computer graphics, machine learning, and computational photography.
+About
+I'm a third year undergraduate student from [Department of Computer Science and Technology](https://www.cs.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn). My research interest includes computer vision, computer graphics, deep learning.
 
-I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
+I am very fortunate to be advised by [Prof. Shi-Min Hu](http://cg.cs.tsinghua.edu.cn/shimin.htm) from [Department of Computer Science and Technology](https://www.cs.tsinghua.edu.cn/), Tsinghua University. I was advised by [Prof. Peng Cui](http://pengcui.thumedialab.com/) from [Department of Computer Science and Technology](https://www.cs.tsinghua.edu.cn/), Tsinghua University.
